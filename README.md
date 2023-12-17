@@ -52,24 +52,32 @@
 
 ## Equipe:
 - [Arthur de Araujo Custódio](https://github.com/ArthurDevA)
+  <br>
+  [Repositório](https://github.com/ArthurDevA/Projeto_POO_Swing)
     <div>
         <img height="300" src="https://avatars.githubusercontent.com/u/141514740?s=400&u=96686665a3603b1b17f67f8f5994f73313baa216&v=4"/>
     </div>
     <h3>Realizou a organização do github e fez o back-end da calculadora básica e ajudou no back-end do jogo da velha.</h3>
   
 - [Beatriz de Oliveira](https://github.com/BiaOlit)
+  <br>
+  [Repositório](https://github.com/BiaOlit/Projeto_POO_Swing)
     <div>
         <img height="300" src="https://avatars.githubusercontent.com/u/143532366?v=4"/>
     </div>
     <h3>Foi desenvolverdora full-stack do programa jogo da velha.</h3>
   
 - [Maria Eduarda Fonteles](https://github.com/dudafonteles)
+  <br>
+  [Repositório](https://github.com/dudafonteles/Projeto_POO_Swing)
     <div>
         <img height="300" src="https://avatars.githubusercontent.com/u/142603808?v=4"/>
     </div>
     <h3>Fez o front-end da calculadora e o desing da mesma.</h3>
 
 - [Lucas Venício](https://github.com/09794)
+  <br>
+  [Repositório](https://github.com/09794/Projeto_POO_Swing)
     <div>
         <img height="300" src="https://avatars.githubusercontent.com/u/141374183?v=4"/>
     </div>
